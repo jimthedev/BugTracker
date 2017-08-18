@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app) and shows how to use [react-router-native](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-native) with [NativeBase](https://docs.nativebase.io/Components.html#Components) which is basically bootstrap but for React Native. I built this quickly during a [React Minneapolis](https://www.meetup.com/React-Minneapolis-Meetup) Talk. There are very [basic slides](https://slides.com/jimthedev/react-router-native/) although most of this was done live-coding.
+
+The final project looks something like this:
+
+![Screenshot](BugTracker.gif)
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
